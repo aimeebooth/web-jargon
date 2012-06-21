@@ -20,7 +20,7 @@ Piece of logic.
 **Also known as:** a method, when declared inside of an Object or Class.
 
 ## Object
-The most basic construct defined in programming, an object can be turned into anything.
+The most basic construct defined in programming, an object can be turned into anything. In Object Oriented Programming, an object is an instance of a class, containing all the data attributes and functionality of that class.
 
 ## Class
 A sort of recipe to organize portions of a program, it often contains the aforementioned items.
